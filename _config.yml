@@ -1,7 +1,9 @@
 title: Sky Nguyen # your name (or website title) here
 logo: "images/appleid.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   I am an aspiring data professional with a passion for the world of data science, particularly in the realm of AI and machine learning. 
+  <br><br>
   My ultimate goal is to specialize in AI and machine learning techniques to create intelligent systems that can make a positive impact in various domains.
   <br><br>
   <a href="https://www.linkedin.com/in/thanh-nguyen-939608119/">View My LinkedIn Profile</a> 
@@ -10,3 +12,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'

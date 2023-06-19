@@ -1,4 +1,4 @@
-## Selected projects in Data Analytics and Data Science
+## Working projects in Data Analytics and Data Science
 
 ---
 

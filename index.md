@@ -12,7 +12,7 @@ The project involved analyzing a Twitch dataset to explore and gain insights int
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sheet 2.png"/>
 
 ---
 [Project 3 Title](http://example.com/)

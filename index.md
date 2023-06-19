@@ -1,4 +1,4 @@
-## Working projects in Data Analytics and Data Science
+## Current projects in Data Analytics and Data Science
 
 ---
 

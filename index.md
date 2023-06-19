@@ -14,7 +14,5 @@ The project involved analyzing a Twitch dataset to explore and gain insights int
 <img src="images/Sheet 2 (3).png"/>
 
 ---
-<script src="https://gist.github.com/sky-nguyen/4ea4f2fb11333c30f0c5f7baf1d478dc.js"></script>
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

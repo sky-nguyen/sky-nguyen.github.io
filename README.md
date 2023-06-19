@@ -1,4 +1,4 @@
-## Sky Nguyen's portfolio project
+## Sky's portfolio project
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 

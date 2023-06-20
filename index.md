@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analysis on Twitch viewership between 2019 & 2022
+### Data Analysis on Twitch viewership between 2020 & 2021
 
 The project involved analyzing a Twitch dataset to explore and gain insights into the data from 2020 to 2022 amidst Covid-19 shutdown.
 

@@ -17,7 +17,7 @@ The project involved analyzing a Twitch dataset to explore and gain insights int
 
 ---
 # Smaller developmental projects using Python
-Guess The Number game - https://replit.com/@sky-nguyen/guess-the-number-game
+Guess The Number game - [View code on Replit](https://replit.com/@sky-nguyen/guess-the-number-game)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

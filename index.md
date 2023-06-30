@@ -13,7 +13,7 @@ The project involved analyzing a Twitch dataset to explore and gain insights int
 <img src="images/Sheet 1 (2).png"/>
 <img src="images/Sheet 2 (2).png"/>
 <img src="images/Dashboard 2 (1).png"/>
-<img src="images/Sheet 4.png"/>
+<!-- <img src="images/Sheet 4.png"/>
 
 ---
 ## Smaller developmental projects using Python
